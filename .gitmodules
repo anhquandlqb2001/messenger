@@ -1,3 +1,6 @@
 [submodule "messenger-server"]
 	path = messenger-server
 	url = git@github.com:anhquandlqb2001/messenger-server.git
+[submodule "messenger-client"]
+	path = messenger-client
+	url = git@github.com:anhquandlqb2001/messenger-client.git
