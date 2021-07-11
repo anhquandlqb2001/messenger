@@ -1,10 +1,12 @@
 # Project messenger webapp
 
 ## Tech:
+  - Realtime: Socket
   - Server:
     - NestJS
-    - Redis
-    - TypeORM
+    - JWT auth
+    - PosgreSQL/TypeORM
   - Database: PostgreSQL
   - Client
-    - ReactJS
+    - React/Redux(- toolkit)
+    - TailwindCSS/styled-components
